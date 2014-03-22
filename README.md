@@ -4,12 +4,10 @@ Proyecto de  Ejemplo
 Componentes del Equipo
 ---------------------
 
-(Máximo 4 integrantes por grupo)
-
-+ Nombre del integrante #1 (Desarrollo y Sistemas)
-+ Nombre del integrante #4 (Sistemas)
-+ Nombre del integrante #2 (Diseñador)
-+ Nombre del integrante #3 (Maquetadora)
++ Javier Vidal #1 (Desarrollo web y Sistemas)
++ Miguel Ángel López #4 (Desarrollo móvil)
++ Victor Godoy #2 (Diseñador)
++ Favio #3 (Maquetadora)
 
 Descripción
 -------------
@@ -21,9 +19,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 Especificaciones Técnicas
 --------------------------
-+ Lenguajes de programación utilizados
-+ Sistema de bases de datos
-+ Etc...
++ PHP (Laravel) y MySQL
++ Java (Android)
++ API RESTful
++ Google maps
 
 Licencia
 ---------
