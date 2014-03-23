@@ -1,0 +1,57 @@
+<resources>
+
+	<string name="app_name">AppCede</string>
+
+	<string name="place">Nombre del Lugar</string>
+	<string name="category">Discapacidad</string>
+	<string name="picture">Foto</string>
+	<string name="body">Comentario</string>
+
+	<string name="review">Valoración</string>
+
+	<string-array name="review">
+	    <item>Negativa</item>
+	    <item>Positiva</item>
+	</string-array>
+	
+
+	<string-array name="places">
+	    <item>Hostelería</item>
+	    <item>Hotel</item>
+	    <item>Comercio</item>
+	    <item>Vía Pública</item>
+	   	<item>Administración Pública</item>
+	   	<item>Zona de Ocio</item>
+	   	<item>Transporte Público</item>
+	</string-array>
+	
+	<string-array name="categorys">
+	    <item>Movilidad</item>
+	    <item>Auditiva</item>
+	    <item>Visual</item>
+	    <item>Intelectual</item>
+	</string-array>
+	<string name="sending">Enviando&#8230;</string>
+	<string name="review_sending">Enviando la valoración&#8230;</string>
+	<string name="review_sending_error">Error enviando la valoración</string>
+	<string name="review_send">Valoración enviada</string>
+	
+	<string name="type_category">Discapacidad</string>
+	<string name="type_place">Lugares</string>
+	<string name="type_review">Tipo de valoración</string>
+	
+	<string name="all">Todos</string>
+	<string name="visual">Visual</string>
+	<string name="mobility">Movilidad</string>
+	<string name="auditory">Auditivo</string>
+	<string name="intellectual">Intelectual</string>
+	
+	<string name="hostelry">Hostelería</string>
+    <string name="hotel">Hotel</string>
+    <string name="comerce">Comercio</string>
+    <string name="thoroughfare">Vía Pública</string>
+   	<string name="admin">Administración Pública</string>
+   	<string name="entertainment">Zona de Ocio</string>
+   	<string name="transport">Transporte Público</string>
+		
+</resources>
