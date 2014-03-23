@@ -11,11 +11,11 @@ Componentes del Equipo
 
 Descripción
 -------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Sí, vale, en tu ciudad hay barreras arquitectónicas. Hoteles, restaurantes y espacios públicos con problemas de accesibilidad o mal adaptados para personas con algún tipo de discapacidad, están ahí... esperando a que los solucionemos. Appcede es una aplicación que busca fomentar los lugares bien adaptados, localizar barreras arquitectónicas y plantear soluciones para acabar con ellas. Porque hacer entornos más accesibles es una tarea de todos, no solo de aquellos que sufren a diario sus complicaciones.
 
 Estado del desarrollo actual
 ----------------------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Conceptualizada la idea, el proyecto se encuentra en fase prototipo. Dispone de aplicación web y android. Todas las configuraciones apuntan a servidores en red local.
 
 Especificaciones Técnicas
 --------------------------
@@ -26,4 +26,4 @@ Especificaciones Técnicas
 
 Licencia
 ---------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+GPL
