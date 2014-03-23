@@ -1,4 +1,4 @@
-Proyecto de  Ejemplo
+Appcede
 ====================
 
 Componentes del Equipo
@@ -6,8 +6,8 @@ Componentes del Equipo
 
 + Javier Vidal #1 (Desarrollo web y Sistemas)
 + Miguel Ángel López #4 (Desarrollo móvil)
-+ Victor Godoy #2 (Diseñador)
-+ Favio #3 (Maquetadora)
++ Victor Godoy #2 (Contenidos)
++ Favio #3 (Diseño)
 
 Descripción
 -------------
