@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item android:id="@+id/categorys" android:title="@string/category" android:showAsAction="always" >
+        <menu>
+            <item android:id="@+id/all" android:title="@string/all"  />
+            <item android:id="@+id/visual" android:title="@string/visual"  />
+            <item android:id="@+id/movility" android:title="@string/mobility" />
+            <item android:id="@+id/auditory" android:title="@string/auditory" />
+            <item android:id="@+id/intellectual" android:title="@string/intellectual" />             
+        </menu>
+        
+     </item>
+
+    
+     <item android:id="@+id/places" android:title="@string/type_place" android:showAsAction="always"  >
+        <menu>
+            <item android:id="@+id/all_place" android:title="@string/all"  />
+            <item android:id="@+id/thorughfare" android:title="@string/thoroughfare"  />
+            <item android:id="@+id/hostelry" android:title="@string/hostelry" />
+            <item android:id="@+id/comerce" android:title="@string/comerce" />
+            <item android:id="@+id/admin" android:title="@string/admin" />  
+            <item android:id="@+id/entertainment" android:title="@string/entertainment" />  
+            <item android:id="@+id/hotel" android:title="@string/hotel" />                         
+        </menu>
+        
+     </item>
+     
+    <item android:id="@+id/review"
+          android:icon="@drawable/ic_action_content_edit"
+          android:title="@string/review"
+          android:showAsAction="always"/>
+</menu>

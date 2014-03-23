@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+	    <LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical"
+	    android:padding="8dp" >
+	
+		<TextView 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        style="?android:listSeparatorTextViewStyle"
+	        android:text="@string/place"
+	        />
+	    
+	    <EditText
+	        android:id="@+id/place"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:hint="@string/place"
+	        android:inputType="text" 
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"
+	        style="?android:editTextStyle"/>
+	
+	    
+	    <TextView 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        style="?android:listSeparatorTextViewStyle"
+	        android:text="@string/type_review"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"
+	        />
+	    
+	    <Spinner
+	        android:id="@+id/review"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:entries="@array/review"
+	        android:inputType="text" 
+	        style="?android:spinnerStyle"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"/>
+	
+	    
+	    <TextView 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        style="?android:listSeparatorTextViewStyle"
+	        android:text="@string/type_place"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"
+	        />
+	    
+	    <Spinner
+	        android:id="@+id/places"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:entries="@array/places"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"
+	        android:inputType="text" />
+	
+	    <TextView 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        style="?android:listSeparatorTextViewStyle"
+	        android:text="@string/type_category"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"
+	        />
+	    
+	    
+	    <Spinner
+	        android:id="@+id/category"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:entries="@array/categorys"
+	        android:hint="@string/category"
+	        android:inputType="text"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"
+	        />
+	
+	   <Button 
+	        android:id="@+id/picture"
+	        android:layout_height="wrap_content"
+	        android:layout_width="match_parent"
+	        android:text="@string/picture"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"
+	        />
+	   
+	    <TextView 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        style="?android:listSeparatorTextViewStyle"
+	        android:text="@string/body"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp"
+	        />
+	   
+	    <EditText
+	        android:id="@+id/body"
+	        android:layout_width="match_parent"
+	        android:layout_height="0px"
+	        android:layout_weight="1"
+	        android:hint="@string/body"
+	        android:gravity="top"
+	        android:inputType="text"
+	        android:padding="8dp"
+	        android:layout_marginBottom="8dp" />
+	    
+	
+	    
+	    <LinearLayout 
+	        android:layout_height="wrap_content"
+	        android:layout_width="match_parent"
+	        android:orientation="horizontal"
+	        style="?android:buttonBarStyle"
+	        
+	        >
+	        
+	        <Button 
+	            android:layout_width="0px"
+	            android:layout_weight="1"
+	            android:id="@+id/cancel"
+	            android:layout_height="wrap_content"
+	            android:text="@android:string/cancel"
+	            style="?android:attr/buttonBarButtonStyle"
+	            />
+	        
+	        <Button 
+	            android:layout_width="0px"
+	            android:layout_weight="1"
+	            android:layout_height="wrap_content"
+	            android:text="@android:string/ok"
+	            android:id="@+id/ok"
+	            style="?android:attr/buttonBarButtonStyle"
+	            android:enabled="false"
+	            />
+	        
+	    </LinearLayout>
+	</LinearLayout>
+	    
+</ScrollView>
